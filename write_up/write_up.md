@@ -174,7 +174,7 @@ I studied LeNet Architecture and I started implementing LeNet Architecture but s
 
 
 
-![../images/CNNArchitecture.jpg](./CNNArchitecture.jpg)
+![CNNarch](../images/CNNArchitecture.jpg)
 
 
 
