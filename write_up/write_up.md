@@ -517,7 +517,7 @@ with tf.Session() as sess:
     
 
 
-![png](output_25_1.png)
+![png](image.png)
 
 
     Model saved
