@@ -174,7 +174,7 @@ I studied LeNet Architecture and I started implementing LeNet Architecture but s
 
 
 
-![CNNarch](../images/CNNArchitecture.jpg)
+![CNNarch](https://github.com/pallavL01/traffic-sign-classifier/blob/master/images/CNNArchitecture.jpeg)
 
 
 
