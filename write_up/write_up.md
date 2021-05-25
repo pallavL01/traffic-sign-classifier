@@ -513,7 +513,7 @@ with tf.Session() as sess:
     EPOCH 50 ...
     Validation Accuracy = 0.965
 
-![png](image.png)
+![png](graph.png)
 
 
     Model saved
@@ -591,24 +591,7 @@ my_images = np.asarray(my_images)
 ```
 
 
-![png](output_30_0.png)
-
-
-
-![png](output_30_1.png)
-
-
-
-![png](output_30_2.png)
-
-
-
-![png](output_30_3.png)
-
-
-
-![png](output_30_4.png)
-
+![png](image.png)
 
 ### Predict the Sign Type for Each Image and Analyze Performance
 
