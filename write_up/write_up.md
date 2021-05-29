@@ -611,7 +611,7 @@ with tf.Session() as sess:
 ```
 
     INFO:tensorflow:Restoring parameters from .\trafficTest
-    Test Accuracy = 1.000
+    Test Accuracy = 0.2
     
 
 ### Question 5
@@ -620,20 +620,7 @@ with tf.Session() as sess:
 
 #### Answer-
 
-The model's predictions on these new traffic signs were spot on. Below are the results-
-
-| Image                | Prediction           |
-|----------------------|----------------------|
-| Ahead Only           | Ahead Only           |
-| Bicycle Only         | Bicycle Only         |
-| No Entry             | No Entry             |
-| Pedestrian           | Pedestrian           |
-| Wild Animal Crossing | Wild Animal Crossing |
-
-
-The model was able to correctly guess 5 of the 5 traffic signs, which gives an accuracy of 100%. This compares favorably to the accuracy on the test set of 95%
-
-
+The model's predictions on these new traffic signs were 20% .
 ### Output Top 5 Softmax Probabilities For Each Image Found on the Web
 
 For each of the new images, print out the model's softmax probabilities to show the **certainty** of the model's predictions (limit the output to the top 5 probabilities for each image). [`tf.nn.top_k`](https://www.tensorflow.org/versions/r0.12/api_docs/python/nn.html#top_k) could prove helpful here. 
